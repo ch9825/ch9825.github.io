@@ -282,7 +282,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #fb7299 100%);
+    background: linear-gradient(to right, #ffa2d5 0%, #fb7299 100%);
     opacity: 0.8;
 }
 
@@ -1331,7 +1331,7 @@ thead {
 
 .chip-container .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, #4cbf30 0%, #fb7299 100%) !important;
+    background: linear-gradient(to right, #ff97d4 0%, #fb7299 100%) !important;
 }
 
 .chip .tag-length {
@@ -1820,7 +1820,7 @@ thead {
 
 .other-skills .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, #4cbf30 0%, #fb7299 100%);
+    background: linear-gradient(to right, #ffacda 0%, #fb7299 100%);
     border: 1px solid #4cbf30;
     box-shadow: 0 5px 5px rgba(0, 0, 0, .25)
 }
