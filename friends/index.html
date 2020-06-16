@@ -381,6 +381,9 @@
     .frind-ship img {
         border-radius: 50%;
     }
+    .frind-ship:hover .title img {
+        transform: rotate(360deg);
+    }
     /* 一下是按钮样式 */
     .frind-ship {
         padding: 10px 20px;
@@ -397,6 +400,7 @@
         width: 100px;
         height: 100px;
         flex-shrink: 0;
+        transition: 0.5s all;
     }
     .frind-ship .title h1 {
         padding-bottom: 5px;
