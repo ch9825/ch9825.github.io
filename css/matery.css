@@ -902,9 +902,12 @@ article a {
 }
 
 article a:hover {
-    font-weight: bold;
+/*     font-weight: bold;
     color: #fb7299;
-    text-decoration: underline;
+    text-decoration: underline; */
+    border: 1px solid #fb7299;
+    box-shadow: 0 2px 20px #fb7299;
+    border-radius: 10px;
 }
 
 .articles .row {
